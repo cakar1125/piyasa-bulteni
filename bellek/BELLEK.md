@@ -1,69 +1,110 @@
 # Piyasa Bülteni Bellek Dosyası
-Son güncelleme: 2026-05-27
+Son güncelleme: 2026-06-12
 
 ## Karar Doğruluk Oranı
 | Coin | Toplam Karar | Doğru | Yanlış | Oran |
 |---|---|---|---|---|
-| BTC | 2 | 2 | 0 | %100 |
-| ETH | 2 | 2 | 0 | %100 |
-| SOL | 2 | 2 | 0 | %100 |
-| BNB | 2 | 1 | 1 | %50 |
-| XRP | 2 | 2 | 0 | %100 |
+| BTC | 5 | 5 | 0 | %100 |
+| ETH | 5 | 5 | 0 | %100 |
+| SOL | 5 | 5 | 0 | %100 |
+| BNB | 5 | 4 | 1 | %80 |
+| XRP | 5 | 5 | 0 | %100 |
 
-**Not:** 25 Mayıs → 27 Mayıs doğrulama: BTC/ETH/SOL/XRP BEKLE kararları doğrulandı. BNB AL kararı yanlış çıktı ($669→$651, ~%2.7 kayıp).
+**27 Mayıs → 5 Haziran doğrulama:**
+- BTC BEKLE ✓ ($74,200 → $61,469, -17%)
+- ETH SAT ✓ ($2,047 → $1,638, -20%) — En iyi karar serisindeki mükemmel SAT
+- SOL BEKLE ✓ ($83.36 → $64.43, -23%)
+- BNB BEKLE ✓ ($651 → $576, -11.5%)
+- XRP BEKLE ✓ ($1.32 → $1.11, -16%)
+
+**5 Haziran → 10 Haziran doğrulama:**
+- BTC BEKLE ✓ ($61,469 → $61,632, +0.3% — kayıptan korunuldu)
+- ETH BEKLE ✓ ($1,638 → $1,635, stabil)
+- SOL BEKLE ✓ ($64.43 → $64.47, stabil)
+- BNB BEKLE ✓ ($575.77 → $588, +2.1%)
+- XRP BEKLE ✓ ($1.11 → $1.12, stabil)
+
+**10 Haziran → 12 Haziran doğrulama:**
+- BTC BEKLE ✓ ($61,632 → $63,010, +2.2% — öngörülen $59K-$64K bandının içinde)
+- ETH BEKLE ✓ ($1,635 → $1,659, +1.4%)
+- SOL BEKLE ✓ ($64.47 → $66.22, +2.7%)
+- BNB BEKLE ✓ ($588 → $598, +1.8%)
+- XRP BEKLE ✓ ($1.12 → $1.13, $1.10 desteği tuttu)
 
 ## En Güvenilir Göstergeler (mevcut veri ile)
-- BTC: ETF akış verisi — her 8 günlük çıkış serisinde BTC düştü (%100 korelasyon gözlendi)
-- ETH: Destek kırılım analizi — $2,100 kırılımı doğru yönde çalıştı
-- Genel: BEKLE kararları DOĞRU; agresif AL kararları riskli (BNB örneği)
+- BTC: ETF akış verisi — çıkış serisinin uzunluğu BTC yönünü belirliyor (%100 korelasyon). **11 Haziran'da seri kırıldı (+$30.27M IBIT) → kural toparlanma sinyali diyor; konfirmasyon bekleniyor (2-3 ardışık giriş günü).**
+- ETH: Destek kırılım analizi — $2,100 kırıldıktan sonra SAT mükemmel çalıştı; şimdi $1,600 tutuyor, RSI 25-32 aşırı satım
+- SOL: Funding rate izleme — 5/5 periyot negatif (-0.0040% ort.) = en güçlü squeeze adayı; $67 kırılımı tetikleyici
+- Genel: BEKLE kararları 14/14 DOĞRU; tek yanlış karar AL (BNB, 25 Mayıs)
 
 ## Yanıltıcı Göstergeler
-- **BNB görece güç (7/30d pozitif):** BNB piyasadan güçlü görünse de genel piyasa baskısında AL almak riskli. Görece güç = "daha az düşüyor" demek, "yükseliyor" değil.
-- **Pozitif funding rate (BTC):** Yükselen market'ta boğa sinyali ama düşen market'ta long sıkışma riski. İki yönlü — bağlamla değerlendirilmeli.
+- **Görece güç = AL sinyali değil:** BNB görece güçlüyken AL verip yanlış çıktı (25 Mayıs). Genel piyasa baskısında görece güç = "daha az düşüyor" demek. (12 Haz: BNB yine en güçlü +3.33% 7g — aynı tuzağa düşme.)
+- **Pozitif funding rate (yükselen market'ta):** Boğa sinyali ama düşen market'ta uzun sıkışma riski — bağlamla değerlendir.
+- **Aşırı satım RSI (oversold):** RSI 17-22 seviyeleri tarihsel dip sinyali ama ETF çıkışları sürerken bounce garantisi yok — konfirmasyon bekle.
+- **Short-term privacy coin rallisi:** ZEC, XMR ani hareket gösterse de regülasyon riski kroniği — tuzak.
+- **Extreme Fear'da tek günlük %30 pump (LAB, 12 Haz):** Düşük likidite spekülatif patlaması = dağıtım tuzağı.
 
 ## Piyasa Rejimi Tespiti
-- **2026-05-25:** Range/Konsolidasyon — $75K–$78K kanalında sıkışık
-- **2026-05-27:** Kırılım Öncesi / Aşağı Eğilimli — BTC $74,200 kritik desteği test ediyor. ETF kanaması + makro baskı = kırılım senaryosu ağırlıklı. **Dominant trend: AYI**
+- **2026-05-25:** Range/Konsolidasyon — $75K–$78K kanalında
+- **2026-05-27:** Kırılım Öncesi / Aşağı Eğilimli
+- **2026-06-05:** Güçlü Ayı Trendi / Olası Kapitülasyon — BTC ATH'den %51 aşağıda. RSI 17-22. ETF çıkışı 13 gün = rekor.
+- **2026-06-10:** AYI Trendi / FOMC Bekleme — skor -9/20. BTC $61,632. F&G 7 gün sub-12.
+- **2026-06-12:** **Dip Oluşumu Denemesi / FOMC Bekleyişi — skor 0/20 NÖTR.** ETF serisi kırıldı (+$30.27M), global mcap $2.20T→$2.24T, F&G 9→12. İlk dip sinyalleri ama CPI (12 Haz) + FOMC (16-17 Haz) geçilmeden teyit yok.
+
+## Kritik Kural: ETF Çıkış Serisi
+ETF çıkış serisi devam ettiği sürece BTC için AL verme. Seri kırıldığında (ilk pozitif akış günü) → toparlanma sinyali. Bu kural %100 doğruluk gösterdi.
+**GÜNCELLEME (12 Haz): Seri 11 Haziran'da kırıldı (+$30.27M, tamamı IBIT). Tek günlük $30M, $5B kanamaya karşı zayıf — AL için 2-3 ardışık giriş günü + $65,100 üstü günlük kapanış konfirmasyonu şart. Sahte kırılım riski: 5 Haziran'da da +$3.05M tek günlük giriş olmuş, ertesi gün çıkış dönmüştü.**
 
 ## Tekrarlayan Örüntüler
-- ETF çıkışı 6+ gün sürdüğünde BTC mutlaka gerilemişti → şimdi 8. günde, geri çekilme devam etti
-- Destek seviyeleri üçüncü testte kırılıyor (ETH $2,100 örneği — klasik teknik pattern)
-- Düşen piyasada tek coin pozitif ayrışma yapıyorsa (XLM +8.7%) — çoğunlukla kısa vadeli pompa, sürdürülebilir değil
-- BTC OI BTC cinsinden artarken fiyat düşüyorsa → yeni short açılıyor veya longlar likit oluyor (bearish)
+- ETF çıkışı kronikleşince BTC mutlaka düşüyor (8 gün → %17 kayıp, 13 gün → %17+ kayıp)
+- Destek seviyeleri üçüncü testte kırılıyor (ETH $2,100, sonra $2,020, sonra $1,657)
+- Düşen piyasada tek coin güçlü ayrışma yapıyorsa — kısa vadeli pompa (XLM, BNB)
+- SOL negatif funding sürdükçe tehlike ama ekstremi kırılınca squeeze (5/5 negatif şu an — izle)
+- Privacy coinler (ZEC, XMR) ani hareket = tuzak; regülasyon kroniği
+- Tek günlük küçük ETF girişi seriyi kırmış sayılmaz (5 Haz +$3.05M → ertesi gün yeniden çıkış); en az 2-3 ardışık gün gerekli
 
-## Önemli Seviyeler (Güncel - 2026-05-27)
-- **BTC:** Kritik destek $74,200 / $73,500 | Direnç $76,500 / $77,000 / $78,300
-- **ETH:** Kritik destek $2,020 / $1,900 | Direnç $2,100 (artık direnç!) / $2,140 / $2,211
-- **SOL:** Kritik destek $82.00 / $78.00 | Direnç $88 / $90
-- **BNB:** Destek $649 / $630 | Direnç $660 / $680 / $700
-- **XRP:** Destek $1.30 / $1.25 | Direnç $1.40 / $1.50
+## Önemli Seviyeler (Güncel - 2026-06-12)
+- **BTC:** Kritik destek $62,200 / $60,000 / $57,000 | Direnç $64,400 / $65,100 / $68,000
+- **ETH:** Kritik destek $1,600 / $1,550 / $1,500 | Direnç $1,700 / $1,710 / $2,000 (artık direnç)
+- **SOL:** Kritik destek $63.00 / $58.00 | Direnç $67.00 / $72.00 / $80.00
+- **BNB:** Destek $580 / $560 | Direnç $605 / $630 / $660
+- **XRP:** Destek $1.10 / $1.05 | Direnç $1.20 / $1.30 / $1.40
 
-## Makro Takvim
+## Piyasa Özeti (2026-06-12)
+- BTC: $63,010 (+0.68% 24s, +1.02% 7g, -22.20% 30g, ATH'den -%50.0)
+- ETH: $1,659 (+0.40% 24s, -1.50% 7g — majörlerin en zayıfı)
+- SOL: $66.22 (+2.03% 24s, funding 5/5 negatif)
+- BNB: $598 (+3.33% 7g — en dirençli, $605 direncinde)
+- XRP: $1.13 (Ripple×Mastercard Agent Pay + XRPL AI Kit haberleri)
+- ADA: $0.169 (+4.31% 7g bounce ama UZAK DUR devam — yapısal sorunlar çözülmedi)
+- Fear & Greed: 12 (7 günlük: 12,12,8,10,9,12,12 — dipten dönüş)
+- Global MCap: $2.24T (+0.53% 24s, $2.20T'dan yukarı)
+- BTC Dominance: 56.28% (↑ — BTC öncülüğünde toparlanma)
+- BTC Funding: +0.0011% ort. (nötr) | OI: 98,129 BTC (↓ kaldıraç temizliği)
+- Whale: 1,000+ BTC adres sayısı 1,207→1,303 (birikim sürüyor)
+
+## ADA (Cardano) Özel Uyarı
+- Charles Hoskinson "mola veriyor" + ekosistem başarısızlıkları uyarısı
+- TapTools (analytics) kapanıyor; 2026 Summit iptal edildi
+- 5 yıllık düşük bölgesi: $0.16-0.17
+- UZAK DUR kategorisinde — yapısal sorunlar çözülmeden AL/BEKLE verme
+
+## Makro Takvim (Güncel)
 | Tarih | Olay | Önem |
 |---|---|---|
-| Mayıs sonu 2026 | ABD PCE enflasyon verisi açıklaması | Çok Yüksek |
-| Haziran 2026 | Kevin Warsh Fed Başkanı göreve başlıyor | Çok Yüksek |
-| Temmuz 4, 2026 | CLARITY Act imza/ret (XRP için kritik) | Yüksek |
-| Temmuz–Eylül 2027 | BofA'nın tahmin ettiği ilk Fed faiz indirimi | Yüksek |
-| 2026 sürekli | ABD PCE/CPI aylık açıklamaları | Orta-Yüksek |
+| 12 Haziran 2026 | ABD CPI verisi | ÇOK YÜKSEK |
+| 12 Haziran 2026 | SpaceX tokenize hisse listelemesi (Bybit) | Orta |
+| **16-17 Haziran 2026** | **FOMC Fed faiz kararı + Powell (DÜZELTME: 17-18 değil)** | ÇOK YÜKSEK |
+| Her gün | BTC Spot ETF akış verisi — seri kırılımı takibi | YÜKSEK |
+| 4 Temmuz 2026 | CLARITY Act imza/ret (XRP için kritik — 22 gün kaldı) | YÜKSEK |
+| Haziran-Temmuz 2026 | Kevin Warsh Fed Başkanı geçiş süreci | ORTA |
 
-## Makro Bağlam (2026-05-27 İtibarıyla)
-- Fed Fon Faizi: 3.5%–3.75% (değişmedi, artık artış ihtimali de masada)
-- Piyasa faiz artış ihtimali: **%37** (kritik gelişme — önceki bültende artış beklentisi yoktu)
-- ABD PCE: %3.5 (hedef %2 — çok üzerinde); Core PCE %3.2
-- Fed içi muhalefet: Logan, Hammack, Kashkari "easing bias"a katılmıyor
-- BTC Spot ETF 2026 net: +$536M (Nisan'daki $2B'dan sonra hızla eriyor; 8 günlük çıkış serisinde)
-- BTC Dominance: 57.80% (hafif düşüş ama altcoin sezonu değil, genel piyasa kötü)
-- Dolar/TL: 45.74 (hafif artış)
-- BIST 100: 13,902 (+0.08%, sakin)
-- BTC küresel varlık sıralaması: **13. sıra** (narrative baskısı artıyor)
+## Makro Bağlam (2026-06-12 İtibarıyla)
+- Fed Fon Faizi: 3.50%–3.75% (sabit; piyasa Haziran'da da "değişiklik yok" fiyatlıyor)
+- Faiz artış riski: PCE %3.5 (hedef %2); komite 8-4 bölünmüş — Powell tonu belirleyici
+- BTC Spot ETF: 13 günlük rekor çıkış (-$4.4B) sonrası 11 Haziran'da seri kırıldı (+$30.27M IBIT)
+- Kurumsal haber akışı güçlü: SpaceX tokenize IPO ($150B talep), Canton $355M, Tether $1.4B robotik yatırımı
+- Dolar/TL: 46.26 (yükseliş sürüyor) | BIST 100: 13,743 (↓ 13,836'dan)
 
-## Kritik Gözlemler (Güncel)
-1. **ETF kanaması kritik eşiği geçti:** 8 günlük üst üste çıkış, toplamda -$2B+ → kurumsal talep durdu
-2. **ETH/BTC paritesi kötüleşiyor:** Kurumsal sermaye ETH'den BTC'ye akıyor, ETH underperform devam
-3. **Satoshi balinası sattı:** 2,650 BTC ($203M) trading firmlarına transfer — uzun vadeli HODLer arz baskısı
-4. **Bitcoin Apparent Demand:** -147,000 BTC ile 2026 en kötü seviyesi — gerçek alıcı yok
-5. **Faiz artış senaryosu %37:** Bu materialleşirse kripto için derin ayı market olabilir
-6. **BNB AL stratejisi başarısız:** Görece güç = güvenli al değil; genel market kötüyken AL vermeme kuralı eklendi
-7. **XRP CLARITY Act:** Hâlâ en güçlü orta vadeli katalizör ama 5+ hafta uzakta
-8. **SOL negatif funding:** Shortlar baskın → short squeeze riski var ama tetikleyici belirsiz
+## Operasyonel Not (2026-06-12)
+- 5 ve 10 Haziran bültenleri `C:\tmp\piyasa-bulteni`'ye yazılmış ama GitHub'a push edilmemişti (git repo değildi). 12 Haziran'da fark edilip bu commit ile repoya eklendi. Çalışma dizini her zaman taze klon olmalı; push sonrası `git log` ile doğrula.
