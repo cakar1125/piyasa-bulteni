@@ -1,14 +1,21 @@
 # Piyasa Bülteni Bellek Dosyası
-Son güncelleme: 2026-06-12
+Son güncelleme: 2026-06-14
 
 ## Karar Doğruluk Oranı
 | Coin | Toplam Karar | Doğru | Yanlış | Oran |
 |---|---|---|---|---|
-| BTC | 5 | 5 | 0 | %100 |
-| ETH | 5 | 5 | 0 | %100 |
-| SOL | 5 | 5 | 0 | %100 |
-| BNB | 5 | 4 | 1 | %80 |
-| XRP | 5 | 5 | 0 | %100 |
+| BTC | 6 | 6 | 0 | %100 |
+| ETH | 6 | 6 | 0 | %100 |
+| SOL | 6 | 6 | 0 | %100 |
+| BNB | 6 | 5 | 1 | %83 |
+| XRP | 6 | 6 | 0 | %100 |
+
+**12 Haziran → 14 Haziran doğrulama:**
+- BTC BEKLE ✓ ($63,010 → $64,543, +2.4% — öngörülen $60,800-$65,000 bandının içinde, $64,400 direnci kırıldı)
+- ETH BEKLE ✓ ($1,659 → $1,674, +0.9% — majörlerin en zayıfı, öngörü tuttu)
+- SOL BEKLE ✓✓ ($66.22 → $68.17, +2.9% — $67 squeeze tetiği öngörüsü gerçekleşti)
+- BNB BEKLE ✓ ($598 → $612, +2.3% — $605 direnci kırıldı)
+- XRP BEKLE ✓ ($1.13 → $1.14, $1.10 desteği tuttu)
 
 **27 Mayıs → 5 Haziran doğrulama:**
 - BTC BEKLE ✓ ($74,200 → $61,469, -17%)
@@ -32,7 +39,7 @@ Son güncelleme: 2026-06-12
 - XRP BEKLE ✓ ($1.12 → $1.13, $1.10 desteği tuttu)
 
 ## En Güvenilir Göstergeler (mevcut veri ile)
-- BTC: ETF akış verisi — çıkış serisinin uzunluğu BTC yönünü belirliyor (%100 korelasyon). **11 Haziran'da seri kırıldı (+$30.27M IBIT) → kural toparlanma sinyali diyor; konfirmasyon bekleniyor (2-3 ardışık giriş günü).**
+- BTC: ETF akış verisi — çıkış serisinin uzunluğu BTC yönünü belirliyor (%100 korelasyon). **GÜNCELLEME (14 Haz): 2 ardışık giriş günü onaylandı — 11 Haz +$30.27M → 12 Haz +$85.85M (12 fonun tümü pozitif, artan hacim). 3. giriş günü + $65,100 kapanış = tam AL tetiği. Kural toparlanmayı doğru öngördü, BTC $63K→$64.5K.**
 - ETH: Destek kırılım analizi — $2,100 kırıldıktan sonra SAT mükemmel çalıştı; şimdi $1,600 tutuyor, RSI 25-32 aşırı satım
 - SOL: Funding rate izleme — 5/5 periyot negatif (-0.0040% ort.) = en güçlü squeeze adayı; $67 kırılımı tetikleyici
 - Genel: BEKLE kararları 14/14 DOĞRU; tek yanlış karar AL (BNB, 25 Mayıs)
@@ -49,11 +56,12 @@ Son güncelleme: 2026-06-12
 - **2026-05-27:** Kırılım Öncesi / Aşağı Eğilimli
 - **2026-06-05:** Güçlü Ayı Trendi / Olası Kapitülasyon — BTC ATH'den %51 aşağıda. RSI 17-22. ETF çıkışı 13 gün = rekor.
 - **2026-06-10:** AYI Trendi / FOMC Bekleme — skor -9/20. BTC $61,632. F&G 7 gün sub-12.
-- **2026-06-12:** **Dip Oluşumu Denemesi / FOMC Bekleyişi — skor 0/20 NÖTR.** ETF serisi kırıldı (+$30.27M), global mcap $2.20T→$2.24T, F&G 9→12. İlk dip sinyalleri ama CPI (12 Haz) + FOMC (16-17 Haz) geçilmeden teyit yok.
+- **2026-06-12:** **Dip Oluşumu Denemesi / FOMC Bekleyişi — skor 0/20 NÖTR.** ETF serisi kırıldı (+$30.27M), global mcap $2.20T→$2.24T, F&G 9→12. İlk dip sinyalleri ama FOMC (16-17 Haz) geçilmeden teyit yok.
+- **2026-06-14:** **Toparlanma Onayı / FOMC Öncesi Temkinli — skor +5/20 BOĞA (zayıf).** 2 ardışık ETF giriş günü (+$85.85M), BTC $64.4K direnci + SOL $67 + BNB $605 kırıldı, F&G 12→18, OI fiyatla yükseliyor. Tek frenleyici: 16-17 Haz FOMC = Warsh'ın ilk toplantısı (şahin bias riski).
 
 ## Kritik Kural: ETF Çıkış Serisi
 ETF çıkış serisi devam ettiği sürece BTC için AL verme. Seri kırıldığında (ilk pozitif akış günü) → toparlanma sinyali. Bu kural %100 doğruluk gösterdi.
-**GÜNCELLEME (12 Haz): Seri 11 Haziran'da kırıldı (+$30.27M, tamamı IBIT). Tek günlük $30M, $5B kanamaya karşı zayıf — AL için 2-3 ardışık giriş günü + $65,100 üstü günlük kapanış konfirmasyonu şart. Sahte kırılım riski: 5 Haziran'da da +$3.05M tek günlük giriş olmuş, ertesi gün çıkış dönmüştü.**
+**GÜNCELLEME (14 Haz): Seri 11 Haz kırıldı (+$30.27M), 12 Haz +$85.85M (12 fonun tümü pozitif, IBIT $57.7M) ile 2. ardışık giriş günü ve ARTAN HACİM teyit edildi. Sahte kırılım riski geçti (5 Haz'daki +$3.05M tek günlüktü, geri dönmüştü; bu sefer 2 gün üst üste + büyüyen tutar). Tam AL tetiği: 3. ardışık giriş günü + $65,100 üstü günlük kapanış — ikisi de FOMC sonrası teyit edilecek. ETH ETF'leri HÂLÂ çıkışta (BTC dönerken ETH dönmedi — ETH zayıflığının kaynağı).**
 
 ## Tekrarlayan Örüntüler
 - ETF çıkışı kronikleşince BTC mutlaka düşüyor (8 gün → %17 kayıp, 13 gün → %17+ kayıp)
@@ -63,25 +71,26 @@ ETF çıkış serisi devam ettiği sürece BTC için AL verme. Seri kırıldığ
 - Privacy coinler (ZEC, XMR) ani hareket = tuzak; regülasyon kroniği
 - Tek günlük küçük ETF girişi seriyi kırmış sayılmaz (5 Haz +$3.05M → ertesi gün yeniden çıkış); en az 2-3 ardışık gün gerekli
 
-## Önemli Seviyeler (Güncel - 2026-06-12)
-- **BTC:** Kritik destek $62,200 / $60,000 / $57,000 | Direnç $64,400 / $65,100 / $68,000
+## Önemli Seviyeler (Güncel - 2026-06-14)
+- **BTC:** Kritik destek $62,200 / $60,000 / $57,000 | Direnç $65,100 / $68,000 / $70,000 ($64,400 kırıldı)
 - **ETH:** Kritik destek $1,600 / $1,550 / $1,500 | Direnç $1,700 / $1,710 / $2,000 (artık direnç)
-- **SOL:** Kritik destek $63.00 / $58.00 | Direnç $67.00 / $72.00 / $80.00
-- **BNB:** Destek $580 / $560 | Direnç $605 / $630 / $660
+- **SOL:** Kritik destek $67.00 (yeni) / $63.00 / $58.00 | Direnç $72.00 / $80.00 ($67 kırıldı)
+- **BNB:** Destek $605 (yeni) / $580 / $560 | Direnç $630 / $660 ($605 kırıldı)
 - **XRP:** Destek $1.10 / $1.05 | Direnç $1.20 / $1.30 / $1.40
 
-## Piyasa Özeti (2026-06-12)
-- BTC: $63,010 (+0.68% 24s, +1.02% 7g, -22.20% 30g, ATH'den -%50.0)
-- ETH: $1,659 (+0.40% 24s, -1.50% 7g — majörlerin en zayıfı)
-- SOL: $66.22 (+2.03% 24s, funding 5/5 negatif)
-- BNB: $598 (+3.33% 7g — en dirençli, $605 direncinde)
-- XRP: $1.13 (Ripple×Mastercard Agent Pay + XRPL AI Kit haberleri)
-- ADA: $0.169 (+4.31% 7g bounce ama UZAK DUR devam — yapısal sorunlar çözülmedi)
-- Fear & Greed: 12 (7 günlük: 12,12,8,10,9,12,12 — dipten dönüş)
-- Global MCap: $2.24T (+0.53% 24s, $2.20T'dan yukarı)
-- BTC Dominance: 56.28% (↑ — BTC öncülüğünde toparlanma)
-- BTC Funding: +0.0011% ort. (nötr) | OI: 98,129 BTC (↓ kaldıraç temizliği)
-- Whale: 1,000+ BTC adres sayısı 1,207→1,303 (birikim sürüyor)
+## Piyasa Özeti (2026-06-14)
+- BTC: $64,543 (+1.04% 24s, +3.51% 7g, -19.76% 30g, ATH'den -%48.8) — $64,400 direnci kırıldı
+- ETH: $1,674 (-0.17% 24s, +2.52% 7g — majörlerin en zayıfı, ETH ETF hâlâ çıkışta)
+- SOL: $68.17 (+0.46% 24s, +5.57% 7g — EN GÜÇLÜ majör, funding 5/5 negatif, $67 kırıldı)
+- BNB: $612 (+0.95% 24s, +3.28% 7g, $605 direnci kırıldı)
+- XRP: $1.14 (+0.84% 7g — en zayıf 7g; ETF 6 hafta giriş $1.44B, CLARITY 4 Tem)
+- ADA: $0.170 (+3.38% 7g bounce ama UZAK DUR devam — yapısal sorunlar çözülmedi)
+- Fear & Greed: 18 (7 günlük: 8,10,9,12,12,13,18 — Extreme Fear ama net toparlanma)
+- Global MCap: $2.28T (+0.55% 24s, $2.24T'dan yukarı)
+- BTC Dominance: 56.65% (↑ — BTC öncülüğünde toparlanma)
+- BTC Funding: -0.0006% ort. (nötr) | OI: 100,888 BTC (↑ fiyatla yükseliyor = yeni longlar)
+- SOL Funding: -0.0062% ort. (5/5 negatif, derinleşiyor) | ETH Funding: +0.0008% (pozitife döndü)
+- Whale: 100+ BTC adres sayısı 2026 zirvesinde; borsa rezervleri 2017'den beri en düşük (yapısal boğa)
 
 ## ADA (Cardano) Özel Uyarı
 - Charles Hoskinson "mola veriyor" + ekosistem başarısızlıkları uyarısı
@@ -92,19 +101,19 @@ ETF çıkış serisi devam ettiği sürece BTC için AL verme. Seri kırıldığ
 ## Makro Takvim (Güncel)
 | Tarih | Olay | Önem |
 |---|---|---|
-| 12 Haziran 2026 | ABD CPI verisi | ÇOK YÜKSEK |
-| 12 Haziran 2026 | SpaceX tokenize hisse listelemesi (Bybit) | Orta |
-| **16-17 Haziran 2026** | **FOMC Fed faiz kararı + Powell (DÜZELTME: 17-18 değil)** | ÇOK YÜKSEK |
-| Her gün | BTC Spot ETF akış verisi — seri kırılımı takibi | YÜKSEK |
-| 4 Temmuz 2026 | CLARITY Act imza/ret (XRP için kritik — 22 gün kaldı) | YÜKSEK |
-| Haziran-Temmuz 2026 | Kevin Warsh Fed Başkanı geçiş süreci | ORTA |
+| ~10 Haziran 2026 | Mayıs CPI açıklandı: %0.5 aylık, %4.2 yıllık (SICAK) | GERÇEKLEŞTİ |
+| **16-17 Haziran 2026** | **FOMC — Kevin WARSH'ın ilk toplantısı (Powell 15 May ayrıldı); faiz %98-99 sabit, asıl risk bias kayması** | ÇOK YÜKSEK |
+| Her gün | BTC Spot ETF akış verisi — 3. ardışık giriş günü takibi | YÜKSEK |
+| 4 Temmuz 2026 | CLARITY Act imza/ret (XRP için kritik — 20 gün kaldı) | YÜKSEK |
+| 14 Temmuz 2026 | Haziran CPI verisi (bir sonraki) | YÜKSEK |
 
-## Makro Bağlam (2026-06-12 İtibarıyla)
-- Fed Fon Faizi: 3.50%–3.75% (sabit; piyasa Haziran'da da "değişiklik yok" fiyatlıyor)
-- Faiz artış riski: PCE %3.5 (hedef %2); komite 8-4 bölünmüş — Powell tonu belirleyici
-- BTC Spot ETF: 13 günlük rekor çıkış (-$4.4B) sonrası 11 Haziran'da seri kırıldı (+$30.27M IBIT)
-- Kurumsal haber akışı güçlü: SpaceX tokenize IPO ($150B talep), Canton $355M, Tether $1.4B robotik yatırımı
-- Dolar/TL: 46.26 (yükseliş sürüyor) | BIST 100: 13,743 (↓ 13,836'dan)
+## Makro Bağlam (2026-06-14 İtibarıyla)
+- Fed Fon Faizi: 3.50%–3.75% (sabit; piyasa Haziran'da da "değişiklik yok" %98-99 fiyatlıyor)
+- **DÜZELTME: "12 Haz CPI" yanlıştı.** Mayıs CPI ~10 Haz açıklandı: %0.5 aylık, **%4.2 yıllık (sıcak, %2 hedefin çok üstünde)**. Sonraki CPI 14 Temmuz.
+- **KRİTİK: Powell görev süresi 15 Mayıs'ta bitti, Kevin Warsh devraldı. 16-17 Haz FOMC onun İLK toplantısı** — şahin bias kayması (gevşeme→nötr/sıkılaşma) en büyük risk.
+- BTC Spot ETF: 13 günlük rekor çıkış (-$4.4B) sonrası 11-12 Haz 2 ardışık giriş günü (+$30.27M → +$85.85M); ETH ETF hâlâ çıkışta
+- On-chain: balina 100+ BTC adresleri 2026 zirvesinde, borsa rezervleri 2017'den beri en düşük (Extreme Fear'da düşüş = yapısal boğa). Uyarı: bir kısım "balina" hareketi borsa cüzdan konsolidasyonu olabilir.
+- Dolar/TL: ~45.74–46.19 (12 Haz 46.26'dan hafif geriledi)
 
 ## Operasyonel Not (2026-06-12)
 - 5 ve 10 Haziran bültenleri `C:\tmp\piyasa-bulteni`'ye yazılmış ama GitHub'a push edilmemişti (git repo değildi). 12 Haziran'da fark edilip bu commit ile repoya eklendi. Çalışma dizini her zaman taze klon olmalı; push sonrası `git log` ile doğrula.
